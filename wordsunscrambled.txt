@@ -1,0 +1,4 @@
+tar: ['ta', 'at', 'ar', 'ra', 'tar', 'tra', 'atr', 'art', 'rat'] 
+rat: ['ra', 'ar', 'at', 'ta', 'rat', 'art', 'atr', 'tra', 'tar'] 
+bat: ['ba', 'ab', 'at', 'ta', 'bat', 'abt', 'tab'] 
+fat: ['fa', 'af', 'at', 'ta', 'fat', 'aft', 'atf'] 
